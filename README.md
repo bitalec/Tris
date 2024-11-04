@@ -1,7 +1,7 @@
 # Progetto S.O. - Gioco Multiplayer su Terminale
 
 **Anno Accademico**: 2023-2024  
-**Studente**: Alex Merlin (Matricola VR472547)
+**Studente**: Alex Merlin
 
 ## Descrizione del Progetto
 
